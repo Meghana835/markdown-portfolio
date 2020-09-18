@@ -1,1 +1,7 @@
-Replace this with a list of your favorite things.
+* Linear data structures
+  * Stacks
+  * Queues
+  * dequeues
+* Non-Linea data structures
+  * Trees
+  * Graphs
